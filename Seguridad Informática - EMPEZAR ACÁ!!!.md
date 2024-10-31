@@ -2,6 +2,7 @@
 - [ ] [[UNIDAD 2 - AMENAZAS y VULNERABILIDADES]]
 - [ ] [[UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN]]
 - [ ] [[UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN]]
+- [ ] [[UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA]]
 
 > [!info] El orden y la nomenclatura de cada tema está basado en el programa de la materia.
 
@@ -11,4 +12,3 @@
 
 ### Sin contenido por el momento
 - [ ] [[UNIDAD 5 - ANÁLISIS FORENSE]]
-- [ ] [[UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA]]

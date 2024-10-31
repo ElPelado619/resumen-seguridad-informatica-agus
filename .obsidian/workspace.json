@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad Informática - EMPEZAR ACÁ!!!.md",
+                "file": "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguridad Informática - EMPEZAR ACÁ!!!"
+              "title": "6.3. Metodologías de trabajo y Técnicas de Auditoría."
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impacto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades."
+              "title": "Backlinks for 6.3. Metodologías de trabajo y Técnicas de Auditoría."
             }
           },
           {
@@ -139,18 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md"
+                "file": "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades."
+              "title": "Outline of 6.3. Metodologías de trabajo y Técnicas de Auditoría."
+            }
+          },
+          {
+            "id": "0c26d222fccf579a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,36 +169,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bb5969f68aa9159c",
   "lastOpenFiles": [
-    "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.md",
-    "Seguridad Informática - EMPEZAR ACÁ!!!.md",
-    "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.md",
-    "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.md",
-    "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.md",
     "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.md",
-    "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.md",
-    "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..md",
+    "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..md",
+    "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md",
+    "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..md",
+    "Seguridad Informática - EMPEZAR ACÁ!!!.md",
     "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..md",
-    "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..md",
-    "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..md",
-    "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..md",
-    "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..md",
-    "Hubs de Unidades/U2/2.2. Modelado de Amenazas..md",
-    "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..md",
-    "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md",
-    "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..md",
-    "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.md",
-    "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..md",
-    "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..md",
-    "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..md",
+    "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.md",
+    "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..md",
+    "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..md",
+    "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.md",
+    "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..md",
+    "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.md",
+    "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..md",
+    "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.md",
     "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..md",
     "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..md",
     "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..md",
-    "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..md",
+    "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..md",
+    "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.md",
+    "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.md",
+    "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..md",
+    "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..md",
+    "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..md",
+    "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..md",
+    "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.md",
+    "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..md",
     "Images/Pasted image 20241027180223.png",
     "Images/Pasted image 20241028165637.png",
     "Images/Pasted image 20241028163024.png",
@@ -196,7 +208,6 @@
     "Images/Pasted image 20241027193203.png",
     "Images/Pasted image 20241027182328.png",
     "Images/Pasted image 20241027181033.png",
-    "202410271756.md",
     "Untitled.canvas",
     "Images",
     "Images/Pasted image 20241026223347.png",

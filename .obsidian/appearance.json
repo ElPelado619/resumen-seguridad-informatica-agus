@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "centerimg",
-    "headingspacing"
+    "headingspacing",
+    "lightbulb"
   ],
   "theme": "obsidian"
 }

@@ -1,0 +1,14 @@
+.callout[data-callout="idea"] {
+    --callout-color: 255, 255, 0;
+    --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="target"] {
+    --callout-color: 0, 0, 255;
+    --callout-icon: lucide-target;
+}
+
+.callout[data-callout="focus"] {
+    --callout-color: 100, 100, 255;
+    --callout-icon: lucide-search-check;
+}
